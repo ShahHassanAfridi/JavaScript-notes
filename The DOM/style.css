@@ -1,0 +1,19 @@
+body{
+    display: grid;
+    justify-content: center;
+}
+
+img{
+    width: 400px;
+}
+
+/* classes to add for styling through classList */
+
+.rounded {
+    border-radius: 50%;
+}
+.green-border {
+    border: 5px solid green;
+}
+
+/* classes to add for styling through classList */

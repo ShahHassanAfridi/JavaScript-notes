@@ -1,0 +1,113 @@
+/* onclick events  */
+
+/* body {
+    display: flex;
+    flex-wrap: wrap;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    border: 5px solid rgb(56, 56, 126);
+    width: 300px;
+    padding: 20px;
+}
+img{
+    width: 300px;
+}
+
+button {
+    width: 300px;
+}
+
+#btnIMG {
+    width: 50px;
+    height: 50px;
+} */
+
+/* activity generate random color */
+
+/* body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button {
+    width: 150px;
+    height: 55px;
+    border-radius: 15px;
+    border: 1px solid rgb(172, 168, 168);
+    background-color: white;
+    color: rgb(172, 168, 168);
+    margin: 20px;
+}
+button:hover {
+    border: 2px solid black;
+    color: black;
+    transition: 0.5s;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 25px;
+    color:white;
+    font-weight: bolder;
+    font-size: larger;
+} */
+
+/* EventListner for elements */
+
+/* body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div{
+    width: 300px;
+    height: 300px;
+    border: 2px solid  black;
+    background: aqua;
+} */
+
+/*  */
+
+/* Keyboard events moving div */
+/* 
+div{
+    display: flex;
+    justify-self: center;
+    align-self: center;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+} */
+
+/*  */
+
+/* Event Bubbling */
+
+/* div {
+    width: 400px;
+    height: 400px;
+    background-color: crimson;
+}
+ul{
+    background-color: chartreuse;
+}
+li{
+    background-color: aqua;
+} */
+
+/*  */
